@@ -28,7 +28,7 @@ The following services and tools are utilized in this project:
 
 # 🏗 Architecture Diagram
 
-![Architecture Diagram](path/to/architecture_diagram.png)
+![Architecture Diagram](AWS Spotify ETL Project.png)
 
 # 📋 Summary
 
